@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Image Helper",
-  "description": "List all images on page, ordered by size (dimensions)",
+  "description": "Lists all images on current page, which are greater than 300 pixels wide",
   "version": "0.1",
 
   "browser_action": {
